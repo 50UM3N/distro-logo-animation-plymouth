@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=distro-logo-animation-plymouth
+Description=simple loading distro-logo-animation-plymouth animation
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/distro-logo-animation-plymouth
+ScriptFile=/usr/share/plymouth/themes/distro-logo-animation-plymouth/distro-logo-animation-plymouth.script
